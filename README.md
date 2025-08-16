@@ -1,6 +1,7 @@
 # KECKT Consults Website 🌐
 
 This is the official website for **KECKT Consults**, a company providing international certification, audit, and consulting services such as ISO standards, GMP, HACCP, CE Marking, and more.
+<img width="1366" height="715" alt="Screenshot (381)" src="https://github.com/user-attachments/assets/777238f0-ee7a-4b0e-bf93-05ddeb00b279" />
 
 ## 🔧 Technologies Used
 
