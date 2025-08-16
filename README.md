@@ -22,21 +22,22 @@ This is the official website for **KECKT Consults**, a company providing interna
 
   
 ### Home Page
-<img width="1366" height="768" alt="Screenshot (381)" src="https://github.com/user-attachments/assets/bc058e5f-7393-4501-9594-3efab194c32d" />
+<img width="1366" height="715" alt="Screenshot (381)" src="https://github.com/user-attachments/assets/39142458-aa58-4d1b-a21e-01b100a296c8" />
 
 ### About us Page
-<img width="1366" height="768" alt="Screenshot (382)" src="https://github.com/user-attachments/assets/4be946df-dd37-4824-9cb0-5b89e4ba917a" />
+<img width="1366" height="717" alt="Screenshot (382)" src="https://github.com/user-attachments/assets/eacf0d1c-e222-4869-ac16-acc2de49c28d" />
 
 ### Services Page
-<img width="1366" height="768" alt="Screenshot (383)" src="https://github.com/user-attachments/assets/7a9b6e09-5291-4ea2-a2c7-1dcae4620dee" />
+<img width="1366" height="720" alt="Screenshot (383)" src="https://github.com/user-attachments/assets/5d6d4680-2e51-4de7-9e94-fb9b2a0b0c8b" />
 
 ### Credential Page
-<img width="1366" height="768" alt="Screenshot (384)" src="https://github.com/user-attachments/assets/f579c3af-d77c-45c8-a7ae-92d067405049" />
+<img width="1366" height="720" alt="Screenshot (384)" src="https://github.com/user-attachments/assets/67935fab-b08c-4d54-baed-f1f290106ad7" />
 
 ### Team Page
-<img width="1366" height="768" alt="Screenshot (385)" src="https://github.com/user-attachments/assets/6814fc43-df58-4bba-ae58-93d20eb63dcf" />
+<img width="1366" height="720" alt="Screenshot (385)" src="https://github.com/user-attachments/assets/2d723fcd-ff28-487c-92e7-ddccfd8963d4" />
 
 ### Contact Page
-<img width="1366" height="768" alt="Screenshot (386)" src="https://github.com/user-attachments/assets/3548a516-3d20-4004-b3d7-4513b67306c3" />
+<img width="1366" height="720" alt="Screenshot (386)" src="https://github.com/user-attachments/assets/980dee87-8e13-4752-89da-d9e201996c16" />
+
 
 
